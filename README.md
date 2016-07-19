@@ -1,6 +1,6 @@
 # GRAD (GitHub Release Asset Downloader)
 
-This is a small command line utiliy which downloads release artefacts via the (GitHub Release API)[https://developer.github.com/v3/repos/releases/]
+This is a small command line utiliy which downloads release artefacts via the [GitHub Release API](https://developer.github.com/v3/repos/releases/)
 
 ## Usage
 ```
